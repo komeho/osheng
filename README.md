@@ -1,4 +1,5 @@
 # Osheng | Oshiwambo - English Translation
+NB: Much of the work is in localhost and not here. Email me at axel@stoiclab.com
 This project aims to develop an Oshiwambo-English language dataset and translation model.
 
 #### Current stage
